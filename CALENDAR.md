@@ -6,11 +6,12 @@ Short pada hari video sebaiknya memancing ke video itu; Short pada hari lain bol
 
 ## Sudah tayang
 - [x] Short #5 — Rahasia pasangan awet: 5 banding 1 (Kam 26 Nov) https://www.youtube.com/watch?v=blsVneM6ak4
+- [x] Short #4 — 48% Anak Bukan Anak Suami Ibunya (Jum 27 Nov, terjadwal 20.00 WIB) https://www.youtube.com/watch?v=EfGFTVRCqU0
 
 ## Rencana
 | Tanggal | Video 17.00 | Short 20.00 |
 |---|---|---|
-| Jum 27 Nov | – | [ ] Short #4 "Anak dengan dua ayah?" (SIAP: media/short4-setia.mp4) |
+| Jum 27 Nov | – | [x] Short #4 "Anak dengan dua ayah?" https://www.youtube.com/watch?v=EfGFTVRCqU0 |
 | Sab 28 Nov | [ ] #4 Setia Itu Kodrat atau Budaya? (SIAP: media/video4-setia.mp4 + thumb4-setia.jpg) | [ ] Mosuo: suami yang pulang sebelum fajar |
 | Min 29 Nov | – | [ ] Himba: 48% anak, dan suami tahu |
 | Sen 30 Nov | – | [ ] "Contempt": prediktor perceraian terkuat (teaser #5) |
