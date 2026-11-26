@@ -2,7 +2,7 @@
 
 Channel YouTube **Kamasastra** (@kamasastra, UC_3tCCl9uWB8O5Ed1YnOtow): edukasi seks, relasi, budaya dan sains, berbahasa Indonesia.
 Tagline: "Tabu dibahas, bukan dibuka." Narator/maskot: **Si Lontar** (daun lontar).
-Target harian (Senin–Sabtu): **1 video panjang (±4–6 menit, 16:9) + 2 Short (±40–50 detik, 9:16)**.
+Kesepakatan (26 Nov 2026): **1 Short setiap hari** (±40–55 detik, 9:16) dan **video panjang Selasa, Kamis, Sabtu** (±5 menit, boleh 6–7 menit untuk topik besar, 16:9).
 
 ## 0. Persiapan sesi
 ```bash
@@ -63,7 +63,14 @@ Target −14 s/d −15 LUFS. Cek beberapa frame sebelum lanjut.
 5. Cek `vidiq_social_post_status`, bagikan link. Ingatkan: "Dibuat untuk anak-anak = Tidak", "konten sintetis = Tidak" (default upload di Studio).
 
 ## Jadwal tayang (WIB)
-- Short A **12.00** · Video **17.00** · Short B **20.00** (Senin–Sabtu, Minggu libur). Sesuaikan bila data vidIQ menunjukkan jam lain lebih baik.
+- Video **17.00** (Sel, Kam, Sab) · Short **20.00** (setiap hari). Sesuaikan bila data vidIQ menunjukkan jam lain lebih baik.
+
+## Anggaran kualitas (sisa kredit ElevenLabs)
+Kebutuhan dasar ±18.600 kredit/minggu (3 video × 4.800 + 7 Short × 600); paket Creator 121.752/bulan. Sisanya dipakai untuk kualitas, **selalu sisakan cadangan ≥ 10.000** dan hitung dulu kebutuhan sampai tanggal reset:
+1. **Musik latar khusus per video panjang** (±900 kredit, model musik ElevenLabs; instrumental, tenang, sesuai suasana topik) → simpan juga ke `sfx/norm/` bila bagus untuk dipakai ulang. Short boleh memakai `musik-loop.mp3`.
+2. **Efek suara baru** yang pas dengan adegan (±17 kredit/efek, maks ±10 per video) → normalisasi lalu simpan di `sfx/norm/` dan commit agar bisa dipakai ulang.
+3. **Narasi lebih kaya**: video boleh 6–7 menit untuk topik besar; Short sampai 55 detik dengan 6–7 adegan.
+4. Jangan membuat ulang suara yang sudah ada; jangan memakai foto/AI realistis (kartun saja, agar label konten sintetis tetap "Tidak").
 
 ## 7. Setelah selesai
 - Centang topik di `CALENDAR.md`, isi link YouTube, commit & push ke `main`.

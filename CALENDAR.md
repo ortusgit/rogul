@@ -1,26 +1,38 @@
 # Kalender konten Kamasastra
 
-Senin–Sabtu: 1 video (17.00 WIB) + 2 Short (12.00 & 20.00 WIB). Minggu libur.
-Status: [ ] belum · [x] tayang (isi link). Topik boleh ditukar bila ada yang lebih relevan; tambahkan topik baru di bawah.
+Kesepakatan (26 Nov 2026): **Short setiap hari 20.00 WIB**; **video panjang Selasa, Kamis, Sabtu 17.00 WIB**.
+Status: [ ] belum · [x] tayang (isi link). Topik boleh ditukar bila ada yang lebih relevan; tambahkan topik baru bila sisa daftar < 7 hari.
+Short pada hari video sebaiknya memancing ke video itu; Short pada hari lain boleh mengambil fakta dari video sebelumnya atau berdiri sendiri.
 
-## Sudah tayang / siap
-- [x] Short #5 — Rahasia pasangan awet: 5 banding 1 (26 Nov) https://www.youtube.com/watch?v=blsVneM6ak4
-- [ ] Video #4 + Short #4 — "Setia Itu Kodrat atau Budaya?" (file siap di branch media)
+## Sudah tayang
+- [x] Short #5 — Rahasia pasangan awet: 5 banding 1 (Kam 26 Nov) https://www.youtube.com/watch?v=blsVneM6ak4
 
 ## Rencana
-| Tanggal | Video (17.00) | Short A (12.00) | Short B (20.00) |
-|---|---|---|---|
-| Jum 27 Nov | #4 Setia Itu Kodrat atau Budaya? (SIAP) | Short #4 Anak dengan dua ayah? (SIAP) | Mosuo: suami yang pulang sebelum fajar |
-| Sab 28 Nov | #5 Rahasia pernikahan awet (Gottman: 5:1, empat penunggang kuda, perbaikan) | Kritik vs keluhan: bedanya | "Contempt": prediktor perceraian terkuat |
-| Sen 30 Nov | #6 Kenapa manusia berciuman? (tidak semua budaya, sejarah, sains) | Separuh budaya tak kenal ciuman romantis | Ciuman tertua dalam catatan sejarah |
-| Sel 1 Des | #7 Kamasutra yang sebenarnya (bukan buku posisi) | Kamasutra cuma 20% soal seks | Siapa Vatsyayana? |
-| Rab 2 Des | #8 Kimia jatuh cinta: dopamin, oksitosin, serotonin | Otak jatuh cinta mirip otak kecanduan | Pelukan 20 detik & oksitosin: fakta/mitos |
-| Kam 3 Des | #9 Serat Centhini & Asmaragama: pendidikan seks Jawa kuno | Naskah Jawa 12 jilid | Kenapa leluhur lebih terbuka? |
-| Jum 4 Des | #10 Kenapa patah hati terasa sakit fisik? | Patah hati & parasetamol (studi) | Sindrom patah hati (takotsubo) |
-| Sab 5 Des | #11 Sejarah pernikahan: dari kontrak ke cinta | Menikah karena cinta baru ±250 tahun | Mahar di berbagai budaya |
-| Sen 7 Des | #12 Feromon manusia: mitos atau fakta? | Studi kaus bau (MHC) | Parfum feromon: buang uang? |
-| Sel 8 Des | #13 Mitos keperawanan & selaput dara | Tes keperawanan dikecam WHO | Asal mitos "darah malam pertama" |
-| Rab 9 Des | #14 Apakah "5 bahasa cinta" terbukti ilmiah? | Hasil uji ilmiah love languages | Bahasa cinta yang paling sering salah |
-| Kam 10 Des | #15 Daya tarik: simetri, suara, bau | Wajah rata-rata lebih menarik? | Suara & daya tarik |
-| Jum 11 Des | #16 Stres, tidur & gairah | Kurang tidur menurunkan gairah | Cortisol vs libido |
-| Sab 12 Des | #17 Kenapa orang ghosting? | Ghosting di era aplikasi kencan | Bagaimana pulih dari ghosting |
+| Tanggal | Video 17.00 | Short 20.00 |
+|---|---|---|
+| Jum 27 Nov | – | [ ] Short #4 "Anak dengan dua ayah?" (SIAP: media/short4-setia.mp4) |
+| Sab 28 Nov | [ ] #4 Setia Itu Kodrat atau Budaya? (SIAP: media/video4-setia.mp4 + thumb4-setia.jpg) | [ ] Mosuo: suami yang pulang sebelum fajar |
+| Min 29 Nov | – | [ ] Himba: 48% anak, dan suami tahu |
+| Sen 30 Nov | – | [ ] "Contempt": prediktor perceraian terkuat (teaser #5) |
+| Sel 1 Des | [ ] #5 Rahasia pernikahan awet (Gottman: 5:1, empat penunggang kuda, upaya perbaikan) | [ ] Kritik vs keluhan: bedanya |
+| Rab 2 Des | – | [ ] Separuh budaya tak kenal ciuman romantis (teaser #6) |
+| Kam 3 Des | [ ] #6 Kenapa manusia berciuman? (sejarah & sains) | [ ] Ciuman tertua dalam catatan sejarah |
+| Jum 4 Des | – | [ ] Kamasutra cuma sebagian kecil soal seks (teaser #7) |
+| Sab 5 Des | [ ] #7 Kamasutra yang sebenarnya (bukan buku posisi) | [ ] Siapa Vatsyayana? |
+| Min 6 Des | – | [ ] Otak jatuh cinta mirip otak kecanduan (teaser #8) |
+| Sen 7 Des | – | [ ] Pelukan & oksitosin: fakta atau mitos? |
+| Sel 8 Des | [ ] #8 Kimia jatuh cinta: dopamin, oksitosin, serotonin | [ ] Kenapa cinta baru bikin susah tidur |
+| Rab 9 Des | – | [ ] Naskah Jawa 12 jilid tentang hidup & asmara (teaser #9) |
+| Kam 10 Des | [ ] #9 Serat Centhini & Asmaragama: pendidikan seks Jawa kuno | [ ] Kenapa leluhur lebih terbuka soal ini? |
+| Jum 11 Des | – | [ ] Patah hati & obat pereda nyeri (teaser #10) |
+| Sab 12 Des | [ ] #10 Kenapa patah hati terasa sakit fisik? | [ ] Sindrom patah hati (takotsubo) |
+| Min 13 Des | – | [ ] Menikah karena cinta itu ide baru (teaser #11) |
+| Sen 14 Des | – | [ ] Mahar di berbagai budaya |
+| Sel 15 Des | [ ] #11 Sejarah pernikahan: dari kontrak ke cinta | [ ] Pernikahan tertua yang tercatat |
+| Rab 16 Des | – | [ ] Studi kaus bau & gen MHC (teaser #12) |
+| Kam 17 Des | [ ] #12 Feromon manusia: mitos atau fakta? | [ ] Parfum feromon: buang uang? |
+| Jum 18 Des | – | [ ] Tes keperawanan dikecam WHO (teaser #13) |
+| Sab 19 Des | [ ] #13 Mitos keperawanan & selaput dara | [ ] Asal mitos "darah malam pertama" |
+
+## Cadangan topik
+- Apakah "5 bahasa cinta" terbukti ilmiah? · Daya tarik: simetri, suara, bau · Stres, tidur & gairah · Kenapa orang ghosting? · Sejarah kontrasepsi kuno · Kenapa kita cemburu pada mantan pasangan?
