@@ -1,0 +1,94 @@
+/* ===== scene animations (run when .active) ===== */
+  .active .floatY{animation:floatY 3s ease-in-out infinite}
+  .active .floatY.d2{animation-delay:.7s}.active .floatY.d3{animation-delay:1.4s}
+  @keyframes floatY{50%{transform:translateY(-12px)}}
+  .active .strike{stroke-dasharray:260;stroke-dashoffset:260;animation:draw .8s ease-out 1.6s forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .active .slideIn{animation:slideIn 2.4s cubic-bezier(.5,0,.3,1) .4s both}
+  @keyframes slideIn{from{transform:translateX(-230px)}to{transform:none}}
+  .active .scanline{animation:scan 1.6s linear infinite}
+  @keyframes scan{0%{transform:translateY(-60px);opacity:0}20%{opacity:1}80%{opacity:1}100%{transform:translateY(60px);opacity:0}}
+  .active .blink{animation:blink 1s steps(2) infinite}
+  .active .blink.b2{animation-duration:1.4s}.active .blink.b3{animation-duration:.8s}
+  @keyframes blink{50%{opacity:.25}}
+  .active .sand{animation:sand 1.2s linear infinite}
+  @keyframes sand{from{transform:translateY(-14px);opacity:1}to{transform:translateY(30px);opacity:0}}
+  .active .fadeIn{animation:fadeIn .8s ease both}
+  .active .d1{animation-delay:.4s}.active .d2{animation-delay:1.2s}.active .d3{animation-delay:2s}.active .d4{animation-delay:2.8s}.active .d5{animation-delay:3.6s}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  .active .growUp{transform-box:fill-box;transform-origin:bottom;animation:grow .9s cubic-bezier(.3,1.4,.5,1) both}
+  @keyframes grow{from{transform:scaleY(0)}to{transform:none}}
+  .active .pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.6,.5,1) both}
+  @keyframes pop{from{transform:scale(0)}to{transform:none}}
+  .active .dropIn{animation:dropIn .9s cubic-bezier(.3,1.6,.5,1) 1.6s both}
+  @keyframes dropIn{from{transform:translateY(-320px) rotate(-20deg)}to{transform:rotate(-12deg)}}
+  .active .fly{animation:fly 3s ease-in infinite}
+  .active .fly.f2{animation-delay:1s}.active .fly.f3{animation-delay:2s}
+  @keyframes fly{0%{transform:translate(0,0);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translate(0,-160px);opacity:0}}
+  .active .beat{transform-box:fill-box;transform-origin:center;animation:beat .9s ease-in-out infinite}
+  @keyframes beat{0%,100%{transform:scale(1)}15%{transform:scale(1.18)}30%{transform:scale(1)}45%{transform:scale(1.12)}}
+  .active .orbit{transform-origin:400px 230px;animation:spin 7s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .active .fill{transform-box:fill-box;transform-origin:left;animation:fillX 2.6s ease-out .6s both}
+  @keyframes fillX{from{transform:scaleX(0)}to{transform:none}}
+  .active .needle{transform-origin:400px 300px;animation:needle 5s ease-in-out .5s both}
+  @keyframes needle{0%{transform:rotate(-70deg)}30%{transform:rotate(55deg)}60%{transform:rotate(55deg)}100%{transform:rotate(-20deg)}}
+  .active .glow{animation:glow 1.6s ease-in-out infinite}
+  @keyframes glow{50%{opacity:.35}}
+  .active .shrink{transform-box:fill-box;transform-origin:bottom center;animation:shrink 4s ease-in-out 1s both}
+  @keyframes shrink{to{transform:scale(.45)}}
+  .active .flick{transform-box:fill-box;transform-origin:bottom center;animation:flick .25s ease-in-out infinite alternate}
+  @keyframes flick{to{transform:scaleY(1.12) skewX(3deg)}}
+  .active .steam{animation:steam 2.4s ease-in infinite}
+  .active .steam.s2{animation-delay:.8s}
+  @keyframes steam{0%{transform:translateY(0);opacity:0}30%{opacity:.8}100%{transform:translateY(-40px);opacity:0}}
+  .active .click{animation:click 1.6s ease-in-out 1s infinite}
+  @keyframes click{0%,100%{transform:translate(0,0)}40%{transform:translate(-40px,-30px)}50%{transform:translate(-40px,-26px)}}
+  .active .press{transform-box:fill-box;transform-origin:center;animation:press 1.6s ease-in-out 1s infinite}
+  @keyframes press{45%,55%{transform:scale(.94)}}
+  .active .count{animation:countdown 5s steps(5) 1s both}
+  .active .reveal{animation:fadeIn .8s ease 4s both}
+  .active .ecg{stroke-dasharray:1500;stroke-dashoffset:1500;animation:draw 3.2s linear .3s forwards}
+  .active .photoIn{transform-box:fill-box;transform-origin:center;animation:photoIn .9s cubic-bezier(.3,1.3,.5,1) .1s both}
+  .active .kenburns{transform-box:fill-box;transform-origin:center;animation:kenburns 14s ease-out .1s both}
+  @keyframes photoIn{from{opacity:0;transform:translateY(40px) rotate(5deg) scale(.92)}to{opacity:1;transform:none}}
+  @keyframes kenburns{from{transform:scale(1)}to{transform:scale(1.08)}}
+  .active .d6{animation-delay:4.4s}.active .d7{animation-delay:5.2s}.active .d8{animation-delay:6s}
+  .active .bob{animation:bob 1.8s ease-in-out infinite}.active .bob.b2{animation-delay:.4s}.active .bob.b3{animation-delay:.8s}
+  .active .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 1.6s ease-in-out infinite}.active .wiggle.w2{animation-delay:.6s}
+  .active .zoomIn{transform-box:fill-box;transform-origin:center;animation:zoomIn .9s cubic-bezier(.3,1.6,.5,1) .3s both}.active .zoomIn.z2{animation-delay:1.2s}
+  .active .shake{animation:shake .5s ease-in-out 1.4s 4}
+  .active .driftX{animation:driftX 12s linear infinite alternate}
+  .active .flap{transform-box:fill-box;transform-origin:right center;animation:flap .5s ease-in-out infinite alternate}
+  .active .sway{transform-box:fill-box;transform-origin:bottom center;animation:sway 3s ease-in-out infinite}
+  .active .tear{animation:tear 2s ease-in 1s infinite}
+  .active .helix{transform-box:fill-box;transform-origin:center;animation:helix 3s ease-in-out infinite}
+  .active .slideL{animation:slideL .9s cubic-bezier(.3,1.3,.5,1) .2s both}.active .slideR{animation:slideR .9s cubic-bezier(.3,1.3,.5,1) .6s both}
+  .active .runX{animation:runX 3.2s ease-in-out infinite alternate}
+  .active .fadeOut{animation:fadeOut 1.2s ease 2.4s both}
+  .active .stampIn{transform-box:fill-box;transform-origin:center;animation:stampIn .5s cubic-bezier(.3,1.6,.5,1) 1.8s both}
+  .active .flyIn{animation:flyIn .8s cubic-bezier(.3,1.3,.5,1) both}.active .flyIn.d1{animation-delay:.6s}.active .flyIn.d2{animation-delay:1.3s}.active .flyIn.d3{animation-delay:2s}
+  .active .ring6{stroke-dasharray:565.5;stroke-dashoffset:565.5;animation:ring6 1.8s ease-out .4s forwards}
+  .active .ring4{stroke-dasharray:565.5;stroke-dashoffset:565.5;animation:ring4 1.8s ease-out 1s forwards}
+  .active .pieHalf{transform-box:view-box;transform-origin:0 0;animation:fadeIn 1s ease .6s both}
+  .active .swing{transform-box:fill-box;transform-origin:top center;animation:swing 2.6s ease-in-out infinite}
+  .active .spinSlow{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  @keyframes wiggle{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(6deg)}}
+  @keyframes zoomIn{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:none}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
+  @keyframes driftX{from{transform:translateX(-30px)}to{transform:translateX(30px)}}
+  @keyframes flap{from{transform:rotate(0)}to{transform:rotate(-22deg)}}
+  @keyframes sway{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(2deg)}}
+  @keyframes tear{0%{transform:translateY(0);opacity:1}100%{transform:translateY(40px);opacity:0}}
+  @keyframes helix{0%,100%{transform:scaleX(1)}50%{transform:scaleX(-1)}}
+  @keyframes slideL{from{opacity:0;transform:translateX(-120px)}to{opacity:1;transform:none}}
+  @keyframes slideR{from{opacity:0;transform:translateX(120px)}to{opacity:1;transform:none}}
+  @keyframes runX{from{transform:translateX(-60px)}to{transform:translateX(150px)}}
+  @keyframes fadeOut{to{opacity:0}}
+  @keyframes stampIn{from{opacity:0;transform:scale(2.4) rotate(-14deg)}to{opacity:1;transform:rotate(-8deg)}}
+  @keyframes flyIn{from{opacity:0;transform:translateX(160px)}to{opacity:1;transform:none}}
+  @keyframes ring6{to{stroke-dashoffset:226}}
+  @keyframes ring4{to{stroke-dashoffset:339}}
+  @keyframes swing{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(6deg)}}
+  
