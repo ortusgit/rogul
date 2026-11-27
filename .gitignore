@@ -1,0 +1,9 @@
+# Hasil render & media (file final ada di branch media)
+rec/
+*/rec
+*.mp4
+*/audio/
+*/short.html
+*/page.html
+*/test.html
+kit/__pycache__/
