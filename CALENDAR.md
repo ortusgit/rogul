@@ -8,12 +8,13 @@ Short pada hari video sebaiknya memancing ke video itu; Short pada hari lain bol
 - [x] Short #5 — Rahasia pasangan awet: 5 banding 1 (Kam 26 Nov) https://www.youtube.com/watch?v=blsVneM6ak4
 - [x] Short #4 — 48% Anak Bukan Anak Suami Ibunya (Jum 27 Nov 20.00 WIB) https://www.youtube.com/watch?v=EfGFTVRCqU0
 - [x] Video #4 — Setia Itu Kodrat atau Budaya? (Sab 28 Nov, terjadwal 17.00 WIB) https://www.youtube.com/watch?v=GdZwAcoKiUE
+- [x] Short #6 — Suami Cuma Datang Malam Hari, Pulang Sebelum Fajar? Tradisi Mosuo (Sab 28 Nov, terjadwal 20.00 WIB) https://www.youtube.com/watch?v=27IwbKDce1c
 
 ## Rencana
 | Tanggal | Video 17.00 | Short 20.00 |
 |---|---|---|
 | Jum 27 Nov | – | [x] Short #4 "Anak dengan dua ayah?" https://www.youtube.com/watch?v=EfGFTVRCqU0 |
-| Sab 28 Nov | [x] #4 Setia Itu Kodrat atau Budaya? (terjadwal 17.00) https://www.youtube.com/watch?v=GdZwAcoKiUE | [ ] SIAP (draf vidIQ, menunggu "ya") Short #6 Mosuo: suami yang pulang sebelum fajar — media: short6-mosuo.mp4 |
+| Sab 28 Nov | [x] #4 Setia Itu Kodrat atau Budaya? (terjadwal 17.00) https://www.youtube.com/watch?v=GdZwAcoKiUE | [x] Short #6 "Suami Cuma Datang Malam Hari" (Mosuo, terjadwal 20.00) https://www.youtube.com/watch?v=27IwbKDce1c |
 | Min 29 Nov | – | [ ] Himba: 48% anak, dan suami tahu |
 | Sen 30 Nov | – | [ ] "Contempt": prediktor perceraian terkuat (teaser #5) |
 | Sel 1 Des | [ ] #5 Rahasia pernikahan awet (Gottman: 5:1, empat penunggang kuda, upaya perbaikan) | [ ] Kritik vs keluhan: bedanya |
