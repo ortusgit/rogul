@@ -8,7 +8,7 @@ name, delta, page, src, out = sys.argv[1], float(sys.argv[2]), sys.argv[3], sys.
 import os
 SFX = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'sfx', 'norm') + '/'
 GAIN = {'whoosh': -15, 'pop': -15, 'stamp': -11, 'click': -13, 'heartbeat': -12, 'alarm': -17,
-        'phone': -13, 'ding': -15, 'paper': -12}
+        'phone': -13, 'ding': -15, 'paper': -12, 'crickets': -14, 'rooster': -13}
 # isyarat per adegan: (detik setelah adegan mulai, efek)
 CUES = {
     'judul': [(0.3, 'ding')],

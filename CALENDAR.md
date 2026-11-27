@@ -13,7 +13,7 @@ Short pada hari video sebaiknya memancing ke video itu; Short pada hari lain bol
 | Tanggal | Video 17.00 | Short 20.00 |
 |---|---|---|
 | Jum 27 Nov | – | [x] Short #4 "Anak dengan dua ayah?" https://www.youtube.com/watch?v=EfGFTVRCqU0 |
-| Sab 28 Nov | [x] #4 Setia Itu Kodrat atau Budaya? (terjadwal 17.00) https://www.youtube.com/watch?v=GdZwAcoKiUE | [ ] Mosuo: suami yang pulang sebelum fajar |
+| Sab 28 Nov | [x] #4 Setia Itu Kodrat atau Budaya? (terjadwal 17.00) https://www.youtube.com/watch?v=GdZwAcoKiUE | [ ] SIAP (draf vidIQ, menunggu "ya") Short #6 Mosuo: suami yang pulang sebelum fajar — media: short6-mosuo.mp4 |
 | Min 29 Nov | – | [ ] Himba: 48% anak, dan suami tahu |
 | Sen 30 Nov | – | [ ] "Contempt": prediktor perceraian terkuat (teaser #5) |
 | Sel 1 Des | [ ] #5 Rahasia pernikahan awet (Gottman: 5:1, empat penunggang kuda, upaya perbaikan) | [ ] Kritik vs keluhan: bedanya |
